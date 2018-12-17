@@ -1,0 +1,16 @@
+.githubLink{
+    background: #2d2d2d;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    padding-top: 8px;
+    margin-top: -50px;
+    margin-left: 100px;
+    box-shadow:         1px 1px 10px 0px rgba(50, 50, 50, 0.75);
+  }
+  
+    .githubLink a{
+        padding: 15px 15px;
+        color:#fff;
+       
+    }
